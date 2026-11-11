@@ -1,0 +1,52 @@
+{
+  "categorias": [
+    "Apoyo a personas en situación de vulnerabilidad",
+    "Ayuda comunitaria",
+    "Asistencia a familias necesitadas",
+    "Actividades de apoyo a niños y familias",
+    "Iniciativas de esperanza y restauración"
+  ],
+  "programas": [
+    {
+      "id": 1,
+      "nombre": "Programa de Apoyo Alimentario",
+      "categoria": "Apoyo a personas en situación de vulnerabilidad",
+      "descripcion": "Programa orientado a brindar asistencia alimentaria a familias en situación de vulnerabilidad económica. Este es un programa de demostración.",
+      "objetivo": "Contribuir a la seguridad alimentaria de familias necesitadas, demostrando el amor de Dios a través de acciones concretas.",
+      "imagen": "/assets/images/programs/programa-demo-1.png",
+      "estado": "activo",
+      "es_demo": true
+    },
+    {
+      "id": 2,
+      "nombre": "Programa de Acompañamiento Familiar",
+      "categoria": "Asistencia a familias necesitadas",
+      "descripcion": "Iniciativa de acompañamiento integral para familias que enfrentan dificultades, ofreciendo orientación y apoyo espiritual. Programa de demostración.",
+      "objetivo": "Fortalecer el núcleo familiar a través del acompañamiento, la orientación y el mensaje de esperanza del Evangelio.",
+      "imagen": "/assets/images/programs/programa-demo-1.png",
+      "estado": "activo",
+      "es_demo": true
+    },
+    {
+      "id": 3,
+      "nombre": "Programa de Actividades para Niños",
+      "categoria": "Actividades de apoyo a niños y familias",
+      "descripcion": "Actividades recreativas y formativas para niños de comunidades vulnerables, promoviendo valores cristianos. Programa de demostración.",
+      "objetivo": "Brindar espacios seguros y formativos para niños, fomentando valores de amor, respeto y esperanza.",
+      "imagen": "/assets/images/programs/programa-demo-1.png",
+      "estado": "activo",
+      "es_demo": true
+    },
+    {
+      "id": 4,
+      "nombre": "Iniciativa de Esperanza Comunitaria",
+      "categoria": "Iniciativas de esperanza y restauración",
+      "descripcion": "Acciones comunitarias orientadas a llevar esperanza y restauración a personas en situación de dificultad. Programa de demostración.",
+      "objetivo": "Transformar vidas a través del poder del Evangelio, ofreciendo esperanza y oportunidades de restauración.",
+      "imagen": "/assets/images/programs/programa-demo-1.png",
+      "estado": "activo",
+      "es_demo": true
+    }
+  ]
+}
+

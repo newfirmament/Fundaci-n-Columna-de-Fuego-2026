@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="70" viewBox="0 0 240 70">
+  <rect width="70" height="70" rx="14" fill="#B4232B"/>
+  <path d="M35 12 L35 58 M20 28 L50 28" stroke="#C69A3A" stroke-width="6" stroke-linecap="round"/>
+  <text x="85" y="32" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#861C20">FUNDACIÓN</text>
+  <text x="85" y="48" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#C69A3A">COLUMNA DE FUEGO</text>
+  <text x="85" y="60" font-family="Arial, sans-serif" font-size="8" fill="#777777">Fe que sirve, amor que transforma</text>
+</svg>

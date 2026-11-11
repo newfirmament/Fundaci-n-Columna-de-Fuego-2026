@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 202.3 69.95">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #861c20;
+        font-size: 14px;
+      }
+
+      .cls-1, .cls-2 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        fill: #c69a3a;
+        font-size: 12px;
+      }
+
+      .cls-4 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-3 {
+        fill: #777;
+        font-family: ArialMT, Arial;
+        font-size: 8px;
+      }
+    </style>
+  </defs>
+  <text class="cls-1" transform="translate(75.42 29.06)"><tspan x="0" y="0">FUNDACIÓN</tspan></text>
+  <text class="cls-2" transform="translate(75.42 45.06)"><tspan x="0" y="0">COLUMN</tspan><tspan class="cls-4" x="52.66" y="0">A</tspan><tspan x="60.88" y="0" xml:space="preserve"> DE FUEGO</tspan></text>
+  <text class="cls-3" transform="translate(75.42 57.06)"><tspan x="0" y="0">Fe que sirve, amor que transforma</tspan></text>
+  <image width="1223" height="1286" transform="scale(.05)" xlink:href="../../../../../../../Users/Fuentes/Downloads/Emblema dorado de llama y manos.png"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#292929" stop-opacity="1"/>
+        <stop offset="100%" stop-color="#292929" stop-opacity="1"/>
+      </linearGradient>
+    </defs>
+    <rect width="800" height="500" fill="url(#grad)"/>
+    <circle cx="640" cy="100" r="150" fill="#C69A3A" opacity="0.15"/>
+    <circle cx="160" cy="400" r="120" fill="#C69A3A" opacity="0.1"/>
+    <rect x="40" y="40" width="720" height="420" rx="16" fill="none" stroke="#C69A3A" stroke-width="2" stroke-dasharray="8 8" opacity="0.4"/>
+    <text x="400" y="230" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Campaña Solidaria</text>
+    <text x="400" y="275" font-family="Arial, sans-serif" font-size="16" fill="#C69A3A" text-anchor="middle">Llegando a los más necesitados</text>
+    <text x="400" y="440" font-family="Arial, sans-serif" font-size="12" fill="#FFFFFF" opacity="0.6" text-anchor="middle">FUNDACIÓN COLUMNA DE FUEGO • DEMOSTRACIÓN</text>
+  </svg>

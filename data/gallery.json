@@ -1,0 +1,73 @@
+{
+  "categorias": [
+    "Ayuda social",
+    "Eventos",
+    "Comunidad",
+    "Actividades para niños",
+    "Oración y alabanza",
+    "Campañas solidarias"
+  ],
+  "imagenes": [
+    {
+      "id": 1,
+      "titulo": "Jornada de ayuda comunitaria",
+      "descripcion": "Imagen de demostración para la galería del sitio web.",
+      "imagen": "/assets/images/gallery/galeria-demo-1.png",
+      "categoria": "Ayuda social",
+      "fecha": "2027-01-15",
+      "tipo": "imagen",
+      "es_demo": true
+    },
+    {
+      "id": 2,
+      "titulo": "Actividad con niños",
+      "descripcion": "Imagen de demostración para la galería del sitio web.",
+      "imagen": "/assets/images/gallery/galeria-demo-1.png",
+      "categoria": "Actividades para niños",
+      "fecha": "2027-01-20",
+      "tipo": "imagen",
+      "es_demo": true
+    },
+    {
+      "id": 3,
+      "titulo": "Momento de oración",
+      "descripcion": "Imagen de demostración para la galería del sitio web.",
+      "imagen": "/assets/images/gallery/galeria-demo-1.png",
+      "categoria": "Oración y alabanza",
+      "fecha": "2027-02-01",
+      "tipo": "imagen",
+      "es_demo": true
+    },
+    {
+      "id": 4,
+      "titulo": "Entrega de donaciones",
+      "descripcion": "Imagen de demostración para la galería del sitio web.",
+      "imagen": "/assets/images/gallery/galeria-demo-1.png",
+      "categoria": "Campañas solidarias",
+      "fecha": "2027-02-10",
+      "tipo": "imagen",
+      "es_demo": true
+    },
+    {
+      "id": 5,
+      "titulo": "Evento comunitario",
+      "descripcion": "Imagen de demostración para la galería del sitio web.",
+      "imagen": "/assets/images/gallery/galeria-demo-1.png",
+      "categoria": "Comunidad",
+      "fecha": "2027-02-15",
+      "tipo": "imagen",
+      "es_demo": true
+    },
+    {
+      "id": 6,
+      "titulo": "Campaña de alimentos",
+      "descripcion": "Imagen de demostración para la galería del sitio web.",
+      "imagen": "/assets/images/gallery/galeria-demo-1.png",
+      "categoria": "Ayuda social",
+      "fecha": "2027-03-01",
+      "tipo": "imagen",
+      "es_demo": true
+    }
+  ]
+}
+

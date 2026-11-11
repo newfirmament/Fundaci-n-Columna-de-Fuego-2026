@@ -1,0 +1,80 @@
+{
+  "nombre": "FUNDACIÓN COLUMNA DE FUEGO",
+  "nombre_corto": "Columna de Fuego",
+  "eslogan": "Fe que sirve, amor que transforma",
+  "frase_complementaria": "Inspirados por Cristo, comprometidos con las personas",
+  "quienes_somos": "La FUNDACIÓN COLUMNA DE FUEGO es una organización sin fines de lucro que tiene como principal fundamento a Jesucristo. Está comprometida con la misión de transformar la vida de las personas en situación de vulnerabilidad. Su principal objetivo es brindar apoyo, demostrar el amor de Dios, guiar a las personas a encontrarse con Él y ofrecer oportunidades a quienes se encuentran en situación de pobreza económica, para que puedan mejorar su calidad de vida y alcanzar su máximo potencial.",
+  "mision": "Nuestra misión es servir a nuestro Señor Jesucristo, sirviendo a los más necesitados, brindándoles apoyo y oportunidades para que puedan alcanzar su máximo potencial y vivir con dignidad, demostrando el amor de Dios en cada acción.",
+  "vision": "Nuestra visión es crear una comunidad de amor y servicio, donde las personas de escasos recursos económicos puedan encontrar esperanza, restauración y transformación a través del poder del Evangelio.",
+  "versiculo": {
+    "texto": "Así alumbre vuestra luz delante de los hombres, para que vean vuestras buenas obras, y glorifiquen a vuestro Padre que está en los cielos.",
+    "referencia": "Mateo 5:16",
+    "version": "Reina-Valera 1960"
+  },
+  "valores": [
+    {
+      "nombre": "Amor",
+      "descripcion": "Demostramos el amor de Dios a través de cada acción, sirviendo con compasión y dedicación a quienes más lo necesitan.",
+      "icono": "heart"
+    },
+    {
+      "nombre": "Servicio",
+      "descripcion": "Seguimos el ejemplo de Jesucristo sirviendo a los demás con humildad, entrega y compromiso genuino.",
+      "icono": "hands-helping"
+    },
+    {
+      "nombre": "Solidaridad",
+      "descripcion": "Nos unimos como comunidad para apoyar a quienes enfrentan situaciones de vulnerabilidad y necesidad.",
+      "icono": "people-carry"
+    },
+    {
+      "nombre": "Fe",
+      "descripcion": "Nuestra fe en Jesucristo es el fundamento que guía cada paso y cada decisión de la fundación.",
+      "icono": "cross"
+    },
+    {
+      "nombre": "Esperanza",
+      "descripcion": "Creemos en la transformación de vidas y trabajamos para que cada persona pueda alcanzar su máximo potencial.",
+      "icono": "sun"
+    },
+    {
+      "nombre": "Compromiso",
+      "descripcion": "Estamos comprometidos con nuestra misión y con cada persona a la que servimos, buscando siempre la excelencia.",
+      "icono": "handshake"
+    }
+  ],
+  "objetivos": [
+    "Brindar apoyo integral a personas en situación de vulnerabilidad.",
+    "Demostrar el amor de Dios a través de acciones concretas de servicio.",
+    "Guiar a las personas a encontrarse con Jesucristo.",
+    "Ofrecer oportunidades para mejorar la calidad de vida de quienes se encuentran en situación de pobreza económica.",
+    "Promover la dignidad humana y el desarrollo del máximo potencial de cada persona.",
+    "Construir una comunidad de amor, servicio y esperanza."
+  ],
+  "contacto": {
+    "fundacion": "FUNDACIÓN COLUMNA DE FUEGO",
+    "whatsapp": {
+      "numero": "68482698",
+      "numero_internacional": "+591 68482698",
+      "enlace": "https://wa.me/59168482698",
+      "mensaje_predeterminado": "Hola, deseo obtener información sobre la FUNDACIÓN COLUMNA DE FUEGO"
+    },
+    "correo": "fundacioncolumnadefuego@gmail.com",
+    "direccion": "Av. Papa Paulo y Pedro Borda",
+    "ciudad": "Cochabamba",
+    "pais": "Bolivia",
+    "maps_query": "Av. Papa Paulo y Pedro Borda, Cochabamba, Bolivia"
+  },
+  "redes_sociales": {
+    "facebook": { "url": "https://www.facebook.com/profile.php?id=100064316426357", "activo": true },
+    "instagram": { "url": "#", "activo": true },
+    "tiktok": { "url": "#", "activo": true },
+    "youtube": { "url": "https://www.youtube.com/@ministeriointernacionalcolumna", "activo": true }
+  },
+  "logo": {
+    "principal": "/assets/images/logo/logo-fundacion.png",
+    "claro": "/assets/images/logo/logo-fundacion-claro.png",
+    "oscuro": "/assets/images/logo/logo-fundacion-oscuro.png"
+  }
+}
+

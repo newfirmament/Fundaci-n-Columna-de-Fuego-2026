@@ -1,0 +1,46 @@
+# ============================================
+# FUNDACIÓN COLUMNA DE FUEGO
+# Configuración Apache / XAMPP (.htaccess)
+# ============================================
+
+# Habilitar RewriteEngine
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # Si la petición apunta a un archivo o carpeta existente, servirlo directamente
+  RewriteCond %{REQUEST_FILENAME} -f [OR]
+  RewriteCond %{REQUEST_FILENAME} -d
+  RewriteRule ^ - [L]
+
+  # Soporte para URLs limpias (ej. /eventos -> /eventos.html)
+  RewriteCond %{REQUEST_FILENAME}.html -f
+  RewriteRule ^(.*)$ $1.html [L]
+</IfModule>
+
+# Tipos MIME para fuentes, SVG y JSON
+<IfModule mod_mime.c>
+  AddType application/json .json
+  AddType image/svg+xml .svg .svgz
+  AddEncoding gzip .svgz
+  AddType font/woff .woff
+  AddType font/woff2 .woff2
+</IfModule>
+
+# Compresión GZIP / Deflate
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css application/javascript application/json image/svg+xml
+</IfModule>
+
+# Caché del navegador para recursos estáticos
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresDefault "access plus 1 month"
+  ExpiresByType text/html "access plus 0 seconds"
+  ExpiresByType application/json "access plus 0 seconds"
+  ExpiresByType image/svg+xml "access plus 1 month"
+  ExpiresByType image/jpeg "access plus 1 year"
+  ExpiresByType image/png "access plus 1 year"
+  ExpiresByType text/css "access plus 1 year"
+  ExpiresByType application/javascript "access plus 1 year"
+</IfModule>
+
